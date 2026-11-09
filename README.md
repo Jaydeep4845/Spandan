@@ -23,7 +23,7 @@ extra/         health tips and information pages
 ## Run it
 
 No build step. Open `home_page/home.html` in a browser. Authentication needs a Firebase project
-with email/password sign-in enabled; put its web config in `home_page/auth.js`.
+with email/password sign-in enabled; put its web config in the `firebaseConfig` blocks in the `home_page/*.html` files.
 
 ## Tech stack
 
